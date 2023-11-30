@@ -1,1 +1,1 @@
-# -input-output--basics-1-mkskh
+# input-output--basics-1-mkskh
